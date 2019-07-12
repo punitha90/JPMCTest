@@ -1,0 +1,118 @@
+apple at 10p
+25 sales of apples at 10p each
+Add 25p apples
+apple at 10p
+25 sales of apples at 10p each
+Add 25p apples
+apple at 10p
+25 sales of cashwes at 10p each
+banana at 10p
+25 sales of pistachio at 10p each
+cherry at 10p
+25 sales of oranges at 10p each
+orange at 10p
+25 sales of guavas at 10p each
+pineapple at 10p
+5 sales of peeches at 5p each
+strawberry at 5p
+2 sales of grapes at 15p each
+grapes at 15p
+Watermelon at 25p
+25 sales of lemons at 25p each
+apple at 10p
+Add 2p guavas
+Add 3p almonds
+Subtract 5p apples
+apple at 10p
+25 sales of apples at 10p each
+Add 25p apples
+apple at 10p
+25 sales of apples at 10p each
+Add 25p apples
+apple at 10p
+25 sales of cashwes at 10p each
+banana at 10p
+25 sales of cashwes at 10p each
+cherry at 10p
+25 sales of oranges at 10p each
+orange at 10p
+250 sales of guavas at 10p each
+5 sales of peeches at 5p each
+apple at 10p
+25 sales of apples at 10p each
+Multiply 250p raisins
+apple at 10p
+25 sales of cashwes at 10p each
+banana at 10p
+25 sales of oranges at 10p each
+orange at 10p
+250 sales of guavas at 10p each
+5 sales of peeches at 5p each
+apple at 10p
+25 sales of apples at 10p each
+Multiply 250p raisins
+apple at 10p
+25 sales of cashwes at 10p each
+banana at 10p
+Add 500p guavas
+Subtract 5p pistachio
+25 sales of oranges at 10p each
+orange at 10p
+250 sales of guavas at 10p each
+5 sales of peeches at 5p each
+apple at 10p
+25 sales of apples at 10p each
+Multiply 250p raisins
+apple at 10p
+25 sales of cashwes at 10p each
+banana at 10p
+Add 500p guavas
+Subtract 5p pistachio
+25 sales of oranges at 10p each
+orange at 10p
+250 sales of guavas at 10p each
+5 sales of peeches at 5p each
+apple at 10p
+25 sales of apples at 10p each
+Multiply 250p raisins
+apple at 10p
+25 sales of cashwes at 10p each
+banana at 10p
+Add 500p guavas
+Subtract 5p pistachio
+25 sales of oranges at 10p each
+orange at 10p
+250 sales of guavas at 10p each
+5 sales of peeches at 5p each
+apple at 10p
+25 sales of apples at 10p each
+Multiply 250p raisins
+apple at 10p
+25 sales of cashwes at 10p each
+banana at 10p
+Add 500p guavas
+Subtract 5p pistachio
+25 sales of oranges at 10p each
+orange at 10p
+250 sales of guavas at 10p each
+5 sales of peeches at 5p each
+apple at 10p
+25 sales of apples at 10p each
+Multiply 250p raisins
+apple at 10p
+25 sales of cashwes at 10p each
+banana at 10p
+Add 500p guavas
+Subtract 5p pistachio
+25 sales of oranges at 10p each
+orange at 10p
+250 sales of guavas at 10p each
+5 sales of peeches at 5p each
+apple at 10p
+25 sales of apples at 10p each
+Multiply 250p raisins
+Multiply 250p raisins
+Multiply 250p raisins
+Add 500p guavas
+Subtract 5p pistachio
+12 sales of grapes
